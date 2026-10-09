@@ -1,5 +1,7 @@
 ##OOP Calculator for Programming
 
+![Calculator](https://github.com/Mjonesfb/programmingportfolio/blob/main/images/Calculator.png?raw=true)
+
 ## Overview
 [Write 2–3 sentences explaining what you are building
 and what a user can do with it.]
